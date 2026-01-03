@@ -1,4 +1,6 @@
 # 💰 금융 빅데이터 기반 신용카드 이상 거래 탐지 시스템
+<p align="center">
+  <img src="./screenshot_Adp.png" width="80%" />
 
 ## 🚀 프로젝트 개요 (Project Overview)
 
