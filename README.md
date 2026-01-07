@@ -152,7 +152,7 @@ SELECT * FROM 테이블 이름;
 
 | 이름 (Name) | 역할 (Role)                                                | GitHub 주소 (Profile)                                          |
 | :---------- | :--------------------------------------------------------- | :------------------------------------------------------------- |
-| **이규현**  | 백엔드 및 웹 애플리케이션 개발 (Backend & Web Application) | [https://github.com/leekyuhyun](https://github.com/leekyuhyun) |
-| **김민한**  | 빅데이터 분석 및 모델링 (Biga Data Analysis & Modeling)    | [https://github.com/minari0v0](https://github.com/minari0v0)   |
+| **이규현**  | 프론트엔드 기능 구현, 기획 및 개발 환경 세팅, 개발 통합        | [https://github.com/leekyuhyun](https://github.com/leekyuhyun) |
+| **김민한**  | 프론트엔드·백엔드 통합 개발, 데이터 분석·모델링, 시스템 구현    | [https://github.com/minari0v0](https://github.com/minari0v0)   |
 
 ---
